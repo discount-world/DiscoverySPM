@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DiscountWorldFramework",
-            url: "https://discount-world.sfo3.digitaloceanspaces.com/swift-package-manager/1.0.4/DiscountWorldFramework.xcframework.zip",
-            checksum: "90c241974c1e1bde3224eab2267193a6a4356e57c49cb6df9f26f4cad7675578"
+            url: "https://discount-world.sfo3.digitaloceanspaces.com/swift-package-manager/1.0.5/DiscountWorldFramework.xcframework.zip",
+            checksum: "050d25eb7320ff6a77834a4eb725b43cf23870cefb5ff702fe24774f8c969b98"
         )
     ]
 )
